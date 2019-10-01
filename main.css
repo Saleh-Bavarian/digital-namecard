@@ -136,6 +136,7 @@ img.profile-pic {
 
 .bg-color-grey {
 	background-image: url("logo_effect.gif");
+	background-size: cover;
 }
 
 .bg-color-white {
