@@ -164,11 +164,11 @@ img.profile-pic {
 }
 
 .bottom {
-	height: 23%;
+	height: 31%;
 }
 
 .button {
-	background-color: ##ff0000;
+	background-color: #ff0000;
 	height: 48px;
 	padding-left: 24px
 	padding-right: 24px;
@@ -176,8 +176,8 @@ img.profile-pic {
 	vertical-align: middle;
 	line-height: 48px;
 	font-family: 'Muli', sans-serif;
-	color: white;
-	font-weight: 300;
+	color: black;
+	font-weight: 600;
 }
 
 @media screen and (max-width: 600px) {
