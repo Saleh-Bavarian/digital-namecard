@@ -136,7 +136,7 @@ img.profile-pic {
 
 .bg-color-grey {
 	background-image: url("https://media.giphy.com/media/g04lCCTUHSw03W7pqD/source.gif");
-	/*background-size: cover;*/
+	background-size: cover;
 }
 
 .bg-color-white {
