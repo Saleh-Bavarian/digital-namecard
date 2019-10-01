@@ -135,8 +135,8 @@ img.profile-pic {
 }
 
 .bg-color-grey {
-	background-image: url("logo_effect.gif");
-	background-size: cover;
+	background-image: url("<iframe src="https://giphy.com/embed/g04lCCTUHSw03W7pqD" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/loop-neon-background-g04lCCTUHSw03W7pqD">via GIPHY</a></p>");
+	/*background-size: cover;*/
 }
 
 .bg-color-white {
